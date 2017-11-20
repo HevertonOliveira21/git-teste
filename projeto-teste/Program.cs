@@ -8,6 +8,7 @@ namespace projeto_teste {
     class Program {
         static void Main(string[] args) {
             Console.WriteLine("Teste");
+            Console.WriteLine("Texto");
             Console.ReadLine();
         }
     }
